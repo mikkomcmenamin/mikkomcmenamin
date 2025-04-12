@@ -1,16 +1,44 @@
-## Hi there 👋
+## Hey 👋, I'm Mikko McMenamin
 
-<!--
-**mikkomcmenamin/mikkomcmenamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software developer with more than 9 years of experience and a strong interest in UX/UI design and artificial intelligence. 
 
-Here are some ideas to get you started:
+### Currently
+- Senior Software Developer and Partner at [Pareto Software](https://www.paretosoftware.fi/?lang=en)
+- Founder of Pretty Okay Apps
+- Portfolio: [mcmenamin.dev](https://mcmenamin.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Experience
+
+**Frontend**
+- React/Next.js, Vue
+- CSS, TailwindCSS, HTML
+- Flutter, SwiftUI, iOS 
+- Unity, Three.js, Unreal Engine, 3D
+- Figma, UX/UI design 
+
+**Backend**
+- Node.js
+- Supabase 
+- PostgreSQL
+
+**Languages**
+- TypeScript
+- Python
+- Dart
+- C#
+- C++
+- SQL
+
+**Tools & Platforms**
+- Git, Github 
+- Linear, JIRA
+- Docker
+- AI SDK, OpenAI, LangChain, etc. 
+- Vercel, Railway, Trigger, Cloudflare, etc. 
+- Posthog, Sentry, etc. 
+
+### Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/mikkomcmenamin/)
+- [X](https://x.com/mikkocodes)
+- [Personal Website](https://mcmenamin.dev)
